@@ -14,4 +14,10 @@ The first thing we see is that the web server is an :point_right: Apache 2.2.8 D
 
 
 In addition, there's many notes that follow. The information in the notes refer to missing hardening features.
-For one, my Apache server appears to be outdated
+For one, my Apache server appears to be outdated<br/><br/>
+<img width="1579" height="597" alt="nikto 3A" src="https://github.com/user-attachments/assets/81f4d047-549a-4e9d-aef3-a3fb52a75237" /><br/>
+
+After nickto has finished the scan we can see it found 30 items that need to be addressed - way to go nikto
+
+<img width="641" height="288" alt="nikto 3" src="https://github.com/user-attachments/assets/5115be7a-c123-43dc-bf21-e510fce64dec" /><br/>
+**In closing, Nikto is a command-line vulnerability scanner included in Kali that focuses on analyzing web servers. Nikto automatically checks a website or web server for common security issues against its known vulnerabilities database.**
